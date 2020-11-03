@@ -1,0 +1,13 @@
+{
+  "name": "SFP - ITC Land Systems Compatibility",
+  "prefix": "sfp_itc_land_systems_compat",
+  "version": "1.0.0",
+  "author": "Anrop",
+  "files": [
+    "mod.cpp"
+  ],
+  "keyname": "sfp_itc_land_systems_compat",
+  "reuse_private_key": true,
+  "signame": "sfp_itc_land_systems_compat",
+  "sigversion": 3
+}

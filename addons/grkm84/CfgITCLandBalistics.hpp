@@ -15,13 +15,9 @@ class itc_land_ballistics {
 				"8Rnd_82mm_Mo_shells",
 				"8Rnd_82mm_Mo_Flare_white",
 				"8Rnd_82mm_Mo_Smoke_white",
-				"8Rnd_82mm_Mo_guided",
-				"8Rnd_82mm_Mo_LG",
 				"ACE_1Rnd_82mm_Mo_HE",
 				"ACE_1Rnd_82mm_Mo_Smoke",
-				"ACE_1Rnd_82mm_Mo_Illum",
-				"ACE_1Rnd_82mm_Mo_HE_Guided",
-				"ACE_1Rnd_82mm_Mo_HE_LaserGuided"
+				"ACE_1Rnd_82mm_Mo_Illum"
 			};
 			weaponClass = "mortar_82mm";
 		};

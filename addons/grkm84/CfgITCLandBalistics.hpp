@@ -15,7 +15,7 @@ class itc_land_ballistics {
 				"ACE_1Rnd_82mm_Mo_HE_Guided",
 				"ACE_1Rnd_82mm_Mo_HE_LaserGuided"
 			};
-			weaponClass = "mortar_81mm";
+			weaponClass = "mortar_82mm";
 		};
 	};
 };

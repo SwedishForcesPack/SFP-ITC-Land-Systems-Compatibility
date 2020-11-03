@@ -14,6 +14,7 @@ class CfgVehicles {
 		artilleryScanner = 0;		
 		class Turrets: Turrets {
 			class MainTurret: MainTurret {
+				minElev = 0.63;
 				turretInfoType = "ITC_Land_RscGunnerSightBasic";
 			};
 		};
